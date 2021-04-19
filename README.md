@@ -1,3 +1,3 @@
-Duke Page: https://jerrywtmh.github.io/DukePage/dukepage
+Duke Page(GitHub Page): https://jerrywtmh.github.io/DukePage/dukepage
 
-Candyshop: https://jerrywtmh.github.io/DukePage/candyshop
+Candyshop(GitHub Page): https://jerrywtmh.github.io/DukePage/candyshop
